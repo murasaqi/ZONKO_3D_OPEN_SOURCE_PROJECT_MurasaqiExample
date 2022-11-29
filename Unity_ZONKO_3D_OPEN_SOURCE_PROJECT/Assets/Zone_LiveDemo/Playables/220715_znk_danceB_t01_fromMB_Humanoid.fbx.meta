@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: bac82e5a9ff30e34b899db0bdc0d2d57
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -3089167306074836187
+    second: 220715_znk_danceB_t01_FBX
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'LeftUpperLeg'
+      : position error = 110.274689 mm\n\t'LeftLowerLeg' : position error = 595.643860
+      mm\n\t'LeftFoot' : position error = 665.592651 mm\n\t'LeftToes' : position
+      error = 175.791870 mm\n\t'RightUpperLeg' : position error = 110.471191 mm\n\t'RightLowerLeg'
+      : position error = 581.403625 mm\n\t'RightFoot' : position error = 646.371643
+      mm\n\t'RightToes' : position error = 175.981735 mm\n\t'Spine' : position error
+      = 151.284882 mm\n\t'Spine1' : position error = 91.438728 mm\n\t'Chest' : position
+      error = 80.828232 mm\n\t'LeftShoulder' : position error = 201.971954 mm\n\t'LeftUpperArm'
+      : position error = 31.039892 mm\n\t'LeftLowerArm' : position error = 11.116329
+      mm\n\t'LeftHand' : position error = 17.647541 mm\n\t'LeftIndexProximal' : position
+      error = 7.776131 mm\n\t'LeftIndexIntermediate' : position error = 6.455348
+      mm\n\t'LeftIndexDistal' : position error = 3.764837 mm\n\t'LeftMiddleProximal'
+      : position error = 6.096796 mm\n\t'LeftMiddleIntermediate' : position error
+      = 4.140363 mm\n\t'LeftMiddleDistal' : position error = 2.197262 mm\n\t'LeftPinkyProximal'
+      : position error = 2.644735 mm\n\t'LeftPinkyIntermediate' : position error
+      = 4.496526 mm\n\t'LeftPinkyDistal' : position error = 8.750038 mm\n\t'LeftRingProximal'
+      : position error = 4.255065 mm\n\t'LeftRingIntermediate' : position error =
+      4.193414 mm\n\t'LeftRingDistal' : position error = 16.063417 mm\n\t'LeftTheumbProximal'
+      : position error = 3.274817 mm\n\t'LeftTheumbIntermediate' : position error
+      = 33.962727 mm\n\t'LeftTheumbDistal' : position error = 26.735346 mm\n\t'Neck'
+      : position error = 227.489029 mm\n\t'Head' : position error = 148.698471 mm\n\t'LeftEye'
+      : position error = 93.330299 mm\n\t'RightEye' : position error = 94.533203
+      mm\n\t'RightShoulder' : position error = 221.590881 mm\n\t'RightUpperArm' :
+      position error = 185.888412 mm\n\t'RightLowerArm' : position error = 453.411560
+      mm\n\t'RightHand' : position error = 471.117920 mm\n\t'RightIndexProximal'
+      : position error = 140.327469 mm\n\t'RightIndexIntermediate' : position error
+      = 72.044983 mm\n\t'RightIndexDistal' : position error = 45.101089 mm\n\t'RightMiddleProximal'
+      : position error = 133.930038 mm\n\t'RightMiddleIntermediate' : position error
+      = 81.084015 mm\n\t'RightMiddleDistal' : position error = 45.538944 mm\n\t'RightPinkyProximal'
+      : position error = 129.974930 mm\n\t'RightPinkyIntermediate' : position error
+      = 70.440987 mm\n\t'RightPinkyDistal' : position error = 33.999893 mm\n\t'RightRingProximal'
+      : position error = 130.445694 mm\n\t'RightRingIntermediate' : position error
+      = 80.831635 mm\n\t'RightRingDistal' : position error = 47.880272 mm\n\t'RightTheumbProximal'
+      : position error = 48.921501 mm\n\t'RightTheumbIntermediate' : position error
+      = 51.705330 mm\n\t'RightTheumbDistal' : position error = 43.867008 mm\n"
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

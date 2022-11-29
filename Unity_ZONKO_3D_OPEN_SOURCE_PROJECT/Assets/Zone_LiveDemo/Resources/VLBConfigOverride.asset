@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fed3f3d91454db34f894abc9ea1d8ec4, type: 3}
+  m_Name: VLBConfigOverride
+  m_EditorClassIdentifier: 
+  geometryOverrideLayer: 1
+  geometryLayerID: 1
+  geometryTag: Untagged
+  geometryRenderQueue: 3000
+  _RenderPipeline: 2
+  _RenderingMode: 1
+  ditheringFactor: 0
+  useLightColorTemperature: 1
+  sharedMeshSides: 24
+  sharedMeshSegments: 5
+  globalNoiseScale: 0.5
+  globalNoiseVelocity: {x: 0.07, y: 0.18, z: 0.05}
+  fadeOutCameraTag: MainCamera
+  noiseTexture3D: {fileID: 11700000, guid: e4c4c1cbfaa63db45b17891f8f2caf6d, type: 2}
+  dustParticlesPrefab: {fileID: 19822582, guid: 472bc216b0f362147943a3cedc36711f,
+    type: 3}
+  ditheringNoiseTexture: {fileID: 2800000, guid: 52f46dcaae8132a4090a9a8d14ece711,
+    type: 3}
+  featureEnabledColorGradient: 1
+  featureEnabledDepthBlend: 1
+  featureEnabledNoise3D: 1
+  featureEnabledDynamicOcclusion: 1
+  featureEnabledMeshSkewing: 1
+  featureEnabledShaderAccuracyHigh: 1
+  pluginVersion: 1991
+  _DummyMaterial: {fileID: 2100000, guid: 4c6c2d567daeac444b97161cc8018f18, type: 2}
+  _BeamShader: {fileID: 4800000, guid: cbdeadb5234077349a4e49e4deb84929, type: 3}
