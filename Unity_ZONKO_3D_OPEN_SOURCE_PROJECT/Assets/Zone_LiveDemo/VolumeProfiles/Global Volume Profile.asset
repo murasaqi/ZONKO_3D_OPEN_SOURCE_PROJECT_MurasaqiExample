@@ -269,6 +269,9 @@ MonoBehaviour:
   lastBounceFallbackHierarchy:
     m_OverrideState: 0
     m_Value: 3
+  ambientProbeDimmer:
+    m_OverrideState: 0
+    m_Value: 0
   layerMask:
     m_OverrideState: 0
     m_Value:

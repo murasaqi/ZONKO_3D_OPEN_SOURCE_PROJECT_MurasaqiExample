@@ -42,8 +42,12 @@ Environments > Sky and Fog Global Volume
 のVolumeFog設定を以下のよう変更してください。
 ![Doc 00](./doc_00.png)
 
+Environments > Global Volume  
+のScreen Space Global IlluminationのQualityをHighにしてください。
+![Doc 02](./doc_02.png)
+
 カメラにアタッチされているRenderTextureの解像度を4Kに変更してください。
-![Doc 00](./doc_01.png)
+![Doc 01](./doc_01.png)
 
 レンダリング時の設定であり、Playする場合は非常にEditorが重くなりますので気をつけください。
 
