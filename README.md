@@ -1,6 +1,7 @@
 # ZONKO_3D_OPEN_SOURCE_PROJECT
 
 ## 概要
+[![](https://img.youtube.com/vi/TJLmCoHFJo0/0.jpg)](https://www.youtube.com/watch?v=TJLmCoHFJo0)  
 
 本プロジェクトはZONKO_3D_OPEN_SOURCE_PROJECTにおける活用事例の一つです。  
 ※本プロジェクトに含まれるぞん子3Dモデル（「ZONKO 3D MODEL type-N」）の利用規約を必ずご確認の上、使用してください。  
