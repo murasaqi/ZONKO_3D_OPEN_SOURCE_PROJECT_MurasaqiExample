@@ -30,6 +30,23 @@ Releaseの最新版からダウンロードしてください。
 GitHubを普段からご利用の方はCloneしてもらっても大丈夫です。
 
 
+## 外部パッケージ
+プロジェクトにエラーが出た場合は、依存しているパッケージを個別にインストールすることで解決することがあります。  
+必要なパッケージのインストール方法をそれぞれ解説します。  
+
+#### UniVRMのインポート
+[UniVRM](https://github.com/vrm-c/UniVRM/releases/tag/v0.107.0)  
+for vrm-0.x UniVRM-0.107.0_1e8a.unitypackage の方をインポートしてください。
+
+#### lilToonのインポート
+[lilToon](https://github.com/lilxyzw/lilToon/releases/tag/1.3.6)
+1.3.6のunitypackageをインポートしてください
+
+#### uLipSyncのインポート
+[uLipSync](https://github.com/hecomi/uLipSync/releases/tag/v2.4.0)
+v2.4.0のunitypackageをインポートしてください。
+
+
 ## 注意点
 ### プロジェクト内容
 本プロジェクトは配布されている「ZONKO 3D MODEL type-N」のみで再編されたプロジェクトになります。  

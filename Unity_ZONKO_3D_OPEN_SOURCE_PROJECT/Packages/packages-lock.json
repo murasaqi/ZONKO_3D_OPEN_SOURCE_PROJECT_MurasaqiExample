@@ -277,42 +277,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.vrmc.gltf": {
-      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/UniGLTF#v0.95.1",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.vrmc.vrmshaders": "0.95.1"
-      },
-      "hash": "646573aeff2135f138d24a3d0bb16516a6fa9c1f"
-    },
-    "com.vrmc.univrm": {
-      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM#v0.95.1",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.vrmc.vrmshaders": "0.95.1",
-        "com.vrmc.gltf": "0.95.1"
-      },
-      "hash": "646573aeff2135f138d24a3d0bb16516a6fa9c1f"
-    },
-    "com.vrmc.vrm": {
-      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM10#v0.95.1",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.vrmc.vrmshaders": "0.95.1",
-        "com.vrmc.gltf": "0.95.1"
-      },
-      "hash": "646573aeff2135f138d24a3d0bb16516a6fa9c1f"
-    },
-    "com.vrmc.vrmshaders": {
-      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.95.1",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "646573aeff2135f138d24a3d0bb16516a6fa9c1f"
-    },
     "jp.iridescent.stagelightmaneuver": {
       "version": "https://github.com/murasaqi/StageLightManeuver.git?path=/jp.iridescenet.stagelightmaneuver#v0.1.0",
       "depth": 0,
@@ -321,13 +285,6 @@
         "com.unity.render-pipelines.universal": "12.1.7"
       },
       "hash": "d2c3ce6a21b81c94dc5396dc25a9ff686dad39d1"
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#master",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "50232656133ebf682d923834ee529041c036019f"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
