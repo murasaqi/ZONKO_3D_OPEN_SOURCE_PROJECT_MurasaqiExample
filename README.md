@@ -1,8 +1,12 @@
 # ZONKO_3D_OPEN_SOURCE_PROJECT
 
 ## 概要
+
 本プロジェクトはZONKO_3D_OPEN_SOURCE_PROJECTにおける活用事例の一つです。  
-詳しくは  
+※本プロジェクトに含まれるぞん子3Dモデル（「ZONKO 3D MODEL type-N」）の利用規約を必ずご確認の上、使用してください。  
+利用規約：https://zone-energy.jp/3dmodel/terms.pdf  
+  
+プロジェクト概要については    
 [こちら(https://zonko.zone-energy.jp/3dmodel)](https://zonko.zone-energy.jp/3dmodel)  
 をご覧ください。
 
