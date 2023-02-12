@@ -27,7 +27,8 @@ CPU Ryzen5 5600X 以上
 [Mac](https://git-scm.com/download/mac)  
 
 ## プロジェクトのダウンロード
-緑のCodeからZIPでダウンロードするか
+[Release v0.2](https://github.com/murasaqi/ZONKO_3D_OPEN_SOURCE_PROJECT_MurasaqiExample/releases/tag/v0.2)  
+  
 GitHubを普段からご利用の方はCloneしてもらっても大丈夫です。
 GitLFSのCloneがうまくいかない方は
 ```
